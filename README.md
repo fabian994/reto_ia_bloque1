@@ -1,6 +1,8 @@
 # reto_ia_bloque1
  
-Integrantes
+Libreta de Kaggle utilizada para el análisis: https://www.kaggle.com/code/carolinaarratia/avancelunes-reto
+
+Integrantes:
 
 Carolina Arratia Camacho
 a01367552

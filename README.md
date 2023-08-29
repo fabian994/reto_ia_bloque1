@@ -1,6 +1,7 @@
 # reto_ia_bloque1
  
-Libreta de Kaggle utilizada para el análisis: https://www.kaggle.com/code/carolinaarratia/avancelunes-reto
+Libreta de Kaggle utilizada: https://www.kaggle.com/code/carolinaarratia/avancelunes-reto
+La justificación se encuentra en el documento PDF.
 
 Integrantes:
 

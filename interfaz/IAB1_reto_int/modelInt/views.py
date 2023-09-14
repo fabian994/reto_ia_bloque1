@@ -45,12 +45,11 @@ def home(request):
             
 
     form=Prediction()
-    csv_path = os.path.join(os.path.dirname(__file__), 'randomForestModel.joblib')
-            #loaded_rf = joblib.load('interfaz\IAB1_reto_int\modelInt\randomForestModel.joblib')
-    loaded_rf = joblib.load(csv_path)
+    res='none'
     context = {
         "title": "Predecir Ventas",
-        "form": form
+        "form": form,
+        "resultPred": res
     }
 
     return render(request, "home.html", context)

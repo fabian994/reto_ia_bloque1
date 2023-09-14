@@ -5,6 +5,23 @@
 	<title>Sample Project</title>
 </head>
 <body>
-    <p>hello</p>
+	<form method="POST" >
+		{% csrf_token %}
+		<label for="m_date">Date (Agosto 2017):</label>
+		{{form.ModelDate}}
+		<br>
+		<label for="m_store">store_nbr:</label>
+		{{form.ModelStore}}
+		<br>
+		<label for="m_family">Family:</label>
+		{{form.ModelFamily}}
+		<br>
+		<label for="m_onprom">Onpromotion:</label>
+		{{form.ModelOnp}}
+		<br>
+		<input type="submit">
+
+	</form>
+	  
 </body>
 </html>

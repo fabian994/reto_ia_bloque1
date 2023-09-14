@@ -4,7 +4,7 @@ Libreta de Kaggle utilizada: https://www.kaggle.com/code/carolinaarratia/sales-r
 
 La evidencia relacionada a los **Datos** - sobre el manejo de datos que incluye limpieza y transformación de datos utilizando ETL - se encuentra en la carpeta "Documentos", en el documento LimpiezadelConjuntodeDatos.pdf -> https://github.com/fabian994/reto_ia_bloque1/blob/main/Documentos/LimpiezadelConjuntodeDatos.pdf
 
-La evidencia relacionada al **Modelo Evaluación y refinamiento** se puede encontrar en la libreta de Kaggle o en el archivo Sales_reto.ipynb, ambos contienen la misma información.
+La evidencia relacionada al **Modelo Evaluación y refinamiento** se puede encontrar en la libreta de Kaggle o en el archivo sales-reto.ipynb, ambos contienen la misma información.
 
 La evidencia de **Solución** - interfaz web - también se encuentra en este repositorio.
 

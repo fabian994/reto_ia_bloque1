@@ -5,6 +5,7 @@
 	<title>Sample Project</title>
 </head>
 <body>
+	<p>Prediccion: {{resultPred}}</p>
 	<form method="POST" >
 		{% csrf_token %}
 		<label for="m_date">Date (Agosto 2017):</label>
@@ -18,6 +19,9 @@
 		<br>
 		<label for="m_onprom">Onpromotion:</label>
 		{{form.ModelOnp}}
+		<br>
+		<label for="m_onprom">Es un dia festivo?:</label>
+		{{form.Holidays}}
 		<br>
 		<input type="submit">
 

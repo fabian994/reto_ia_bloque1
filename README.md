@@ -1,6 +1,14 @@
 # reto_ia_bloque1
  
-Libreta de Kaggle utilizada: [https://www.kaggle.com/code/carolinaarratia/avancelunes-reto](https://www.kaggle.com/carolinaarratia/avancesreg-reto) \\ La justificación se encuentra en el documento PDF.
+Libreta de Kaggle utilizada: https://www.kaggle.com/code/carolinaarratia/sales-reto
+
+La evidencia relacionada a los **Datos** - sobre el manejo de datos que incluye limpieza y transformación de datos utilizando ETL - se encuentra en el documento LimpiezadelConjuntodeDatos.pdf
+
+La evidencia relacionada al **Modelo Evaluación y refinamiento** se puede encontrar en la libreta de Kaggle o en el archivo Sales_reto.ipynb, asmbos contienen la misma información.
+
+La evidencia de **Solución** - interfaz web - también se encuentra en este repositorio.
+
+Por último, la evidencia de la competencia **SEG0403 Compromiso ético y ciudadano** se lee en el archivo Evidencia SEG0403.pdf
 
 Integrantes:
 

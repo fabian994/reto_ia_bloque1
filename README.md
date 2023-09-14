@@ -2,15 +2,17 @@
  
 Libreta de Kaggle utilizada: https://www.kaggle.com/code/carolinaarratia/sales-reto
 
-La evidencia relacionada a los **Datos** - sobre el manejo de datos que incluye limpieza y transformación de datos utilizando ETL - se encuentra en el documento LimpiezadelConjuntodeDatos.pdf
+La evidencia relacionada a los **Datos** - sobre el manejo de datos que incluye limpieza y transformación de datos utilizando ETL - se encuentra en la carpeta "Documentos", en el documento LimpiezadelConjuntodeDatos.pdf -> https://github.com/fabian994/reto_ia_bloque1/blob/main/Documentos/LimpiezadelConjuntodeDatos.pdf
 
-La evidencia relacionada al **Modelo Evaluación y refinamiento** se puede encontrar en la libreta de Kaggle o en el archivo Sales_reto.ipynb, asmbos contienen la misma información.
+La evidencia relacionada al **Modelo Evaluación y refinamiento** se puede encontrar en la libreta de Kaggle o en el archivo Sales_reto.ipynb, ambos contienen la misma información.
 
 La evidencia de **Solución** - interfaz web - también se encuentra en este repositorio.
 
-Por último, la evidencia de la competencia **SEG0403 Compromiso ético y ciudadano** se lee en el archivo Evidencia SEG0403.pdf
+La evidencia de la competencia **SEG0403 Compromiso ético y ciudadano** se lee en la carpeta de "Documentos" en el archivo EvidenciaSEG0403.pdf -> [https://github.com/fabian994/reto_ia_bloque1/tree/main/Documentos](https://github.com/fabian994/reto_ia_bloque1/blob/main/Documentos/EvidenciaSEG0403.pdf)
 
-Integrantes:
+Por último, la presentación usada se encuentra dentro de la carpeta de Docuementos con el título PresentacionRetoSales.pdf -> https://github.com/fabian994/reto_ia_bloque1/blob/main/Documentos/PresentacionRetoSales.pdf
+
+**Integrantes:**
 
 Carolina Arratia Camacho
 a01367552
